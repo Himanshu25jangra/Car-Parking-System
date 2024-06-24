@@ -1,6 +1,10 @@
 # Car-Parking-System
 <p>The Vehicle Parking System is a system that enables parking lots to reserve a parking space. It also allows organization to view the parking status at their parking area. It is developed because the congestion and collision of the vehicle. Therefore, the project aimed at solving such problems by designing an application that will enable the organization to make reservations of available parking space for their customers/ employees at their parking area.</p>
 
+# Langauage/Database
+<li>VB.Net</li>
+<li>MySql</li>
+
 # Screenshots
 
 <br>USER LOGIN<br>
