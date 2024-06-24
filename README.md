@@ -6,8 +6,7 @@
 <li>MySql</li>
 
 # Screenshots
-
-<br>USER LOGIN<br>
+USER LOGIN<br>
 <img src="https://github.com/Himanshu25jangra/Car-Parking-System/blob/main/parkingsystem/Resources/Screenshots/Picture1.png" width="600" height="400">
 <br>USER REGISTRATION<br>
 <img src="https://github.com/Himanshu25jangra/Car-Parking-System/blob/main/parkingsystem/Resources/Screenshots/Picture2.png" width="600" height="400">
